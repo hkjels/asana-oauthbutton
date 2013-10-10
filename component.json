@@ -1,0 +1,14 @@
+{
+  "name": "asana-oauthbutton",
+  "repo": "hkjels/asana-oauthbutton",
+  "description": "Asana Oauth login-button",
+  "version": "0.0.1",
+  "keywords": ["asana", "oauth", "ui", "login"],
+  "dependencies": {
+    "hkjels/oauthbutton"
+  },
+  "license": "MIT",
+  "scripts": ["index.js"],
+  "images": ["asana-oauth-button.png", "asana-oauth-button-blue.png"],
+  "styles": ["asana-oauthbutton.css"]
+}

@@ -1,0 +1,17 @@
+
+button.asana {
+  background: url(asana-oauth-button.png) left top no-repeat;
+  border: none;
+  height: 29px;
+  outline: none;
+  position: relative;
+  width: 159px;
+}
+  button.asana:active {
+    top: 1px;
+  }
+
+button.asana.alt {
+  background-image: url(asana-oauth-button-blue.png);
+}
+
